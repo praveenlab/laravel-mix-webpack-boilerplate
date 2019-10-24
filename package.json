@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-webpack-boilerplate",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Standalone Laravel-mix and Webpack Boilerplate",
   "author": "PraveenLab",
   "keywords": [
@@ -40,15 +40,14 @@
     "webpack-cli": "^3.3.9",
     "lodash": "^4.17.15",
     "browser-sync": "^2.26.7",
-    "browser-sync-webpack-plugin": "^2.2.2"
-  },
-  "dependencies": {
+    "browser-sync-webpack-plugin": "^2.2.2",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.0",
     "popper.js": "^1.15.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
+  "dependencies": {},
   "browserslist": [
     ">0.2%",
     "not dead",
